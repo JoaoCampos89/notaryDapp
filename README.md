@@ -12,3 +12,5 @@ The dapp deployed as smartcontract can be called to show if the owner is the rig
 # References
 
 https://searchsecurity.techtarget.com/definition/digital-signature
+
+https://github.com/ethereum/web3.js/blob/develop/example/signature-verifier.js
